@@ -47,7 +47,7 @@
         "babel-register": "^6.26.0",
         "chai": "^4.2.0",
         "genversion": "^2.2.1",
-        "mocha": "^7.1.2",
+        "mocha": "^10.2.0",
         "nodemon": "^2.0.3",
         "ts-node": "^8.10.1",
         "typescript": "^3.8.3",
